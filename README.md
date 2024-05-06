@@ -1,4 +1,4 @@
-# git-branch
+# git-branch-system
 
 This repository is dedicated to show how to deal with the [`git branch system`](https://www.atlassian.com/git/tutorials/using-branches).
 
@@ -55,5 +55,5 @@ git branch -a
 git fetch
 
 ## Create a new local branch from a remote branch ----
-git checkout -b implement-feature origin/implement-feature
+git checkout -b add-license origin/add-license
 ```
